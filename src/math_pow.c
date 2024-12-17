@@ -1,18 +1,18 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_pow.c                                           :+:      :+:    :+:   */
+/*   math_pow.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: antoinemura <antoinemura@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/18 14:22:14 by antoinemura       #+#    #+#             */
-/*   Updated: 2024/12/17 03:00:48 by antoinemura      ###   ########.fr       */
+/*   Updated: 2024/12/17 17:28:22 by antoinemura      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "math.h"
 
-int	ft_pow(int nb, int exposant)
+int	math_pow(int nb, int exposant)
 {
 	int	res;
 

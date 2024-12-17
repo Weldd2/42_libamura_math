@@ -6,13 +6,13 @@
 /*   By: antoinemura <antoinemura@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/17 20:18:06 by antoinemura       #+#    #+#             */
-/*   Updated: 2024/05/18 15:51:47 by antoinemura      ###   ########.fr       */
+/*   Updated: 2024/12/17 17:40:15 by antoinemura      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef MATH_H
 # define MATH_H
 
-int		ft_pow(int nb, int exposant);
+int		math_pow(int nb, int exposant);
 
 #endif
